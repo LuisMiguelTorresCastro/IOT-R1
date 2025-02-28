@@ -2,16 +2,20 @@
 # LuisMiguelTorresCastro
 
 ## PARTE TEÓRICA (30 PUNTOS)
-|CURSO Python Fundamentals 2|
+|CURSO Python Fundamentals 2||
 |--|--|
 |MODULOS|Imagen|
 |--|--|
 |MODULO 1|[<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/1.jpeg" width="100"/>|
+|MODULO 2|[<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/2.jpeg" width="100"/>|
+|MODULO 3|[<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/3.jpeg" width="100"/>|
+|MODULO 4|[<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/4.jpeg" width="100"/>|
+|MODULO Final|[<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/final.jpeg" width="100"/>|
 
 ## Materiales utilizados
-|Material|Imagen|Cantidad|Costo|
+|Material|Imagen|||
 |--|--|--|--|
-|ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/>|1|120.00|
+|MODULO 1|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/>|1|120.00|
 |HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b" />|1|30.00|
 |Servo|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCS2LOM7XetEE4N0_B1KxJhYDKp9Ve8MIXiA&s" width="100"/>|2|80.00|
 |LEDs|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrORWYeYGwKMV-8mKFk_LDyt8DU1EhKOpXQ&s" width="100"/>|5|20.00|
