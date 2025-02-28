@@ -11,14 +11,13 @@
 |MODULO 4|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/4.jpeg" width="100"/>|
 |MODULO Final|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/final.jpeg" width="100"/>|
 
-## Materiales utilizados
-|Material|Imagen|||
-|--|--|--|--|
-|MODULO 1|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/>|1|120.00|
-|HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b" />|1|30.00|
-|Servo|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCS2LOM7XetEE4N0_B1KxJhYDKp9Ve8MIXiA&s" width="100"/>|2|80.00|
-|LEDs|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrORWYeYGwKMV-8mKFk_LDyt8DU1EhKOpXQ&s" width="100"/>|5|20.00|
-|Buzzer|<img src="https://th.bing.com/th/id/OIP.ux9IEUTGIihWYCG_bb4LEAHaHa?w=196&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="100"/>|1|80.00|
+## PARTE PRÁCTICA (60 PUNTOS)
+|Ejercicio 1: Monitoreo de Luz con LDR y Almacenamiento (20 puntos)||
+|--|--|
+|Diagrama de conexión|[ Video: https://drive.google.com/file/d/183ZHaA9D2F0P6VYCohKJwEwuiUI78SYP/view?usp=sharing]|
+|Código documentado b|[ Video: https://drive.google.com/file/d/183ZHaA9D2F0P6VYCohKJwEwuiUI78SYP/view?usp=sharing]|
+|Video demostrativo |[ Video: https://drive.google.com/file/d/183ZHaA9D2F0P6VYCohKJwEwuiUI78SYP/view?usp=sharing]|
+
 
 ## Software utilizado.
 |Software|Versión|
