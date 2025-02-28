@@ -1,5 +1,10 @@
-# IOT-R2
+# IOT-R1
 # LuisMiguelTorresCastro
+
+## PARTE TEÓRICA (30 PUNTOS)
+## CURSO Python Fundamentals 2
+## MODULO 1
+[https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/1.jpeg]
 
 ## Materiales utilizados
 |Material|Imagen|Cantidad|Costo|
