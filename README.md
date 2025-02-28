@@ -5,12 +5,11 @@
 |CURSO Python Fundamentals 2||
 |--|--|
 |MODULOS|Imagen|
-|--|--|
-|MODULO 1|[<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/1.jpeg" width="100"/>|
-|MODULO 2|[<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/2.jpeg" width="100"/>|
-|MODULO 3|[<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/3.jpeg" width="100"/>|
-|MODULO 4|[<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/4.jpeg" width="100"/>|
-|MODULO Final|[<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/final.jpeg" width="100"/>|
+|MODULO 1|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/1.jpeg" width="100"/>|
+|MODULO 2|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/2.jpeg" width="100"/>|
+|MODULO 3|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/3.jpeg" width="100"/>|
+|MODULO 4|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/4.jpeg" width="100"/>|
+|MODULO Final|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/final.jpeg" width="100"/>|
 
 ## Materiales utilizados
 |Material|Imagen|||
