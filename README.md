@@ -3,7 +3,9 @@
 
 ## PARTE TEÓRICA (30 PUNTOS)
 |CURSO Python Fundamentals 2|
+|--|--|
 |MODULOS|Imagen|
+|--|--|
 |MODULO 1|[<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/1.jpeg" width="100"/>|
 
 ## Materiales utilizados
