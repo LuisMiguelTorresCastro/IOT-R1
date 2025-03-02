@@ -27,12 +27,13 @@
 
 |CURSO Python Fundamentals 2||
 |--|--|
-|MODULOS|Imagen|
-|MODULO 1|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/1.jpeg" width="100"/>|
-|MODULO 2|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/2.jpeg" width="100"/>|
-|MODULO 3|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/3.jpeg" width="100"/>|
-|MODULO 4|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/4.jpeg" width="100"/>|
-|MODULO Final|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/final.jpeg" width="100"/>|
+
+|MODULOS|Evaluacion|Imagen|
+|MODULO 1|1|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/1.jpeg" width="100"/>|
+|MODULO 2|2|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/2.jpeg" width="100"/>|
+|MODULO 3|3|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/3.jpeg" width="100"/>|
+|MODULO 4|4|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/4.jpeg" width="100"/>|
+|MODULO Final|Final|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/final.jpeg" width="100"/>|
 
 ## PARTE PRÁCTICA (60 PUNTOS)
 |Ejercicio 1: Monitoreo de Luz con LDR y Almacenamiento (20 puntos)||
