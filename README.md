@@ -15,6 +15,16 @@
 ####   de evidencias.
 
 ## PARTE TEÓRICA (30 PUNTOS)
+### Realiza los ejercicios y cuestionarios asignados por el docente, con enfoque en:
+#### ○ Tipos de datos, estructuras básicas y funciones.
+#### ○ Control de flujo (condicionales, bucles).
+#### ○ Introducción al manejo de datos en sistemas IoT.
+|CURSO Python Fundamentals 2||
+|--|--|
+|MODULOS|Ejercicio|Imagen|
+|MODULO 1||<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/1.jpeg" width="100"/>|
+|MODULO 2||<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/2.jpeg" width="100"/>|
+
 |CURSO Python Fundamentals 2||
 |--|--|
 |MODULOS|Imagen|
@@ -40,7 +50,7 @@
 ### Ejercicios 3 y 4: Soldadura (20 puntos, 10% cada uno)
 #### Ejercicio 3 (10 puntos): Circuito Soldado Funcional
 #### Ejercicio 4 (10 puntos): Figura 2D o 3D Soldada
-|Ejercicio 2: Control de LEDs RGB con Sensor Digital (20 puntos)||
+|Ejercicios 3 y 4||
 |--|--|
 |Diagrama de conexión|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/ejercicio_3y4/diagrama-circuito-electrico.jpeg" width="100"/>
 |Video demostrativo |Video: https://drive.google.com/file/d/1uKIZ3RqAOMJSeWwo_O7j11y8jgo3GAj3/view?usp=drive_link|
