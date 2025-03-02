@@ -5,14 +5,14 @@
 ##  TOTAL DE PUNTOS: 100
 
 ##  OBJETIVO:
-###   El estudiante diseñará, desarrollará y documentará sistemas IoT prácticos, aplicando
-###   sensores, actuadores y almacenamiento de datos en hardware abierto.
+####   El estudiante diseñará, desarrollará y documentará sistemas IoT prácticos, aplicando
+####   sensores, actuadores y almacenamiento de datos en hardware abierto.
 
 ##  DISTRIBUCIÓN DE PUNTOS:
-###   ● Teoría (30%): Basada en el curso NetAcad Python Fundamentals 2 de Cisco.
-###   ● Práctica (60%): Nuevos ejercicios prácticos similares al nivel del examen ordinario.
-###   ● Ser (10%): Evaluación de responsabilidad, colaboración y puntualidad en la entrega
-###   de evidencias.
+####   ● Teoría (30%): Basada en el curso NetAcad Python Fundamentals 2 de Cisco.
+####   ● Práctica (60%): Nuevos ejercicios prácticos similares al nivel del examen ordinario.
+####   ● Ser (10%): Evaluación de responsabilidad, colaboración y puntualidad en la entrega
+####   de evidencias.
 
 ## PARTE TEÓRICA (30 PUNTOS)
 |CURSO Python Fundamentals 2||
