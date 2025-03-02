@@ -37,6 +37,9 @@
 |Código documentado b|codigo python:https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/ejercicio_2/sensor%20hc-sr04%20con%20led%20rgb.py|
 |Video demostrativo | Video: https://drive.google.com/file/d/1uLONCE6COySQn43LNGSwpaUOv45UN9Rv/view?usp=drive_link|
 
+### Ejercicios 3 y 4: Soldadura (20 puntos, 10% cada uno)
+#### Ejercicio 3 (10 puntos): Circuito Soldado Funcional
+#### Ejercicio 4 (10 puntos): Figura 2D o 3D Soldada
 |Ejercicio 2: Control de LEDs RGB con Sensor Digital (20 puntos)||
 |--|--|
 |Diagrama de conexión|<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/ejercicio_3y4/diagrama-circuito-electrico.jpeg" width="100"/>
