@@ -19,11 +19,13 @@
 #### ○ Tipos de datos, estructuras básicas y funciones.
 #### ○ Control de flujo (condicionales, bucles).
 #### ○ Introducción al manejo de datos en sistemas IoT.
-|CURSO Python Fundamentals 2|||
-|--|--|--|
-|MODULOS|sesion|Ejercicio|Imagen|
-|MODULO 1|1||<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/1.jpeg" width="100"/>|
-|MODULO 2|1||<img src="https://github.com/LuisMiguelTorresCastro/IOT-R1/blob/main/examen_python/2.jpeg" width="100"/>|
+|CURSO Python Fundamentals 2||
+|--|--|
+|MODULOS|cuestionario|
+|MODULO 1|:https://github.com/LuisMiguelTorresCastro/IOT-R1/tree/main/cuestionarios/modulo1|
+|MODULO 2|:https://github.com/LuisMiguelTorresCastro/IOT-R1/tree/main/cuestionarios/modulo2|
+|MODULO 3|:https://github.com/LuisMiguelTorresCastro/IOT-R1/tree/main/cuestionarios/modulo3|
+|MODULO 4|:https://github.com/LuisMiguelTorresCastro/IOT-R1/tree/main/cuestionarios/modulo4|
 
 |CURSO Python Fundamentals 2|||
 |--|--|--|
